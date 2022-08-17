@@ -2,7 +2,8 @@
 
 # Hello Microverse!
 
-> Description the project.
+> In this project, I added a "Hello Microverse!" header, a ".h1-style"(class) for the header, and added the Microverse linter folder.
+PD: I also created a gitignore file to ignore test.md.
 
 
 ## Built With 
@@ -14,11 +15,11 @@
 
 ## Authors
 
-👤 **Author1**
+👤 **Marcos Gualtero Lourenzo**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/Goruchie)
+- Twitter: [@twitterhandle](https://twitter.com/Goruchie2)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/marcos-gualtero-a2aa35246)
 
 
 
